@@ -1,12 +1,11 @@
 {
-  "name": "test",
+  "name": "alice-chess",
   "version": "0.0.1",
-  "description": "Testing of compilation",
+  "description": "Variant of chess",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"No test\" && exit 1",
     "start": "electron-forge start",
-    "make": "electron-forge make",
+    "make": "echo electron-forge make",
     "package": "electron-forge package"
   },
   "author": {
